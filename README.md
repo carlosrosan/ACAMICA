@@ -1,5 +1,5 @@
 # ACAMICA
-Entregas académicas de Ciencia de Datos. 
+Entregas académicas de la carrera corta "Ciencia de Datos" en www.acamica.com
 
 "Proyecto 02": Entrenamiento de modelo de predicción de precios de propiedades en AMBA basado en dataset de la empresa inmobiliaria Properati.
 
